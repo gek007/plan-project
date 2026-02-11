@@ -4,7 +4,7 @@
    
 2. **Ask "Claude Code"** 
    
-    I want to build the project outlined in @brainstorm.md. 
+    I want to build the project outlined in @project_instraction.md. 
     What are the four most important questions I need to answer in order to build this successfully? It created @questions.md file with all questions
 
 
@@ -69,8 +69,7 @@
       - Github repo 
       - .env file 
       - CLAUDE.md 
-      - MCP servers
-      - Slash commands , sub-agents , rules , skills 
+      - Plugins: slash commands, sub-agents, rules, skills, MCP servers, hooks   
     -         
 
     
