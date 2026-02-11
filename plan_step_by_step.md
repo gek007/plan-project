@@ -8,7 +8,7 @@
     What are the four most important questions I need to answer in order to build this successfully? It created @questions.md file with all questions
 
 
-    **Claude Answer** -> in @questions_by_claude.md  
+   **Claude Answer** -> in @questions_by_claude.md  
 
    
 3. **Ask GhatGPT:** 
@@ -18,13 +18,13 @@
     I’m trying to think through the app functionality. What are some questions that I should think about in order to build this app and make it useful.  
 
 
-  **GPT Answer :**   ->  in @questions_by_chatgpt.md  
+   **GPT Answer :**   ->  in @questions_by_chatgpt.md  
 
-    **Make conversation with ChatGPT about all questions** 
+    Make further conversation with ChatGPT about all questions 
 
 4. **Project_spec.md doc (PSD)**  
 
-    Key Components:
+      Key Components:
 
       Part 1: Product requirements
 
@@ -42,15 +42,27 @@
                * DB 
                * Cloud 
                * AI model     
-
-
+               * Auth/login 
+               * Emails 
+               * Object storage   
+               * 
+          
           - Architecture 
           - System design   
+          
 
-    What are milestones of functionality ?
+5. **you can ask claude:**
+
+        "Which image model would be best for my app. Create a research report comparing the the best image models available via API on quality, cost, and ease of use. Then recommend a choice to me. Output your findings in a doc called "research_report_image_model.md".
+
+
+6. **What are milestones of functionality ?**
 
       - MVP 
       - v1 
       - v2 
       - Later    
+
+    
+
     
