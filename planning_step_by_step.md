@@ -63,6 +63,16 @@
       - v2 
       - Later    
 
+
+7. **Setup checklist** 
+
+      - Github repo 
+      - .env file 
+      - CLAUDE.md 
+      - MCP servers
+      - Slash commands , sub-agents , rules , skills 
+    -         
+
     
 
     
