@@ -20,4 +20,28 @@
 
   **GPT Answer :**   ->  in @questions_by_chatgpt.md  
 
+    **Make conversation with ChatGPT about all questions** 
+
+4. **Project_spec.md doc (PSD)**  
+
+    - Who is the product for ?
+    - What problems does it solve ?
+    - What does the product do ?  
+
+    Definition:
+
+      What you want to build ?
+      How you want to build it ?
+
+    Key Components:
+
+      Part 1: Product requirements
+      Part 2: Technical design
+
+    What are milestones of functionality ?
+
+      - MVP 
+      - v1 
+      - v2 
+      - Later    
     
