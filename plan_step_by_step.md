@@ -24,19 +24,28 @@
 
 4. **Project_spec.md doc (PSD)**  
 
-    - Who is the product for ?
-    - What problems does it solve ?
-    - What does the product do ?  
-
-    Definition:
-
-      What you want to build ?
-      How you want to build it ?
-
     Key Components:
 
       Part 1: Product requirements
+
+          - Who is the product for ?
+          - What problems does it solve ?
+          - What does the product do ?  
+
       Part 2: Technical design
+
+          - Tech stack 
+  
+               * Language  
+               * Frontend 
+               * Backend
+               * DB 
+               * Cloud 
+               * AI model     
+
+
+          - Architecture 
+          - System design   
 
     What are milestones of functionality ?
 
